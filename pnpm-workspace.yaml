@@ -1,0 +1,5 @@
+packages:
+  - "ui"
+  - "backend"
+  - "functions"
+  - "packages/*"

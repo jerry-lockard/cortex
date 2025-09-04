@@ -1,0 +1,69 @@
+# Node
+node_modules/
+.pnpm-store/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs / caches
+dist/
+build/
+lib/
+tmp/
+temp/
+.cache/
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+.vercel/
+.next/cache/
+
+# Firebase
+.firebase/
+.emulators/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+.storage/
+.runtimeconfig.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.nfs*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs / Editors
+.idea/
+.vscode/
+*.code-workspace
+
+# Task runners
+.turbo/
